@@ -1,0 +1,6 @@
+C:\Users\javed iqbal\Documents\Visual Studio 2013\Projects\1-PrintStringWithSpaces\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\javed iqbal\Documents\Visual Studio 2013\Projects\1-PrintStringWithSpaces\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\javed iqbal\Documents\Visual Studio 2013\Projects\1-PrintStringWithSpaces\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\javed iqbal\Documents\Visual Studio 2013\Projects\1-PrintStringWithSpaces\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\javed iqbal\Documents\Visual Studio 2013\Projects\1-PrintStringWithSpaces\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\javed iqbal\Documents\Visual Studio 2013\Projects\1-PrintStringWithSpaces\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
